@@ -17,4 +17,4 @@ Currently I'm getting a Bachelor's degree in Computer Science. I'm graduating in
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=seljmov&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=seljmov&layout=compact)](https://github.com/sd-denisoff/github-readme-stats)
+![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=seljmov&layout=compact)
