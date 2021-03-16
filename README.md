@@ -1,7 +1,5 @@
 ### Hello, I'm Zagir 👋
 
-![Profile views](https://gpvc.arturio.dev/seljmov)
-
 I am a 19-year-old software developer based in Astrakhan 🇷🇺.
 
 I started programming in 2017, and in 2018 I completed my first internship at the Sirius Educational Center. I also went there in 2019 for the "Classic Programming and Mobile Development" shift.
